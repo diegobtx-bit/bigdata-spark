@@ -1,0 +1,15 @@
+# Varibale Secret
+.env
+
+# Entorno Virtual
+venv
+venv/
+.venv
+.venv/
+myenv
+myenv/
+
+#Aechivo Temporales
+*.pyc
+_pycache_
+.DS_Store
